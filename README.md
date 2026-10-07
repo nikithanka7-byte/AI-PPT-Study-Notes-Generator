@@ -81,6 +81,7 @@ Create PDF
        ↓
 Download Study Notes
 ```
+## Application link : https://ai-ppt-study-notes-generator-stkcl54tffsbvqbanmnahj.streamlit.app/
 
 ---
 
