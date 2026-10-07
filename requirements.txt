@@ -1,0 +1,7 @@
+streamlit
+python-pptx
+pytesseract
+Pillow
+opencv-python
+numpy
+reportlab
