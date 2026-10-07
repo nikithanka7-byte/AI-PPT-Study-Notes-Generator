@@ -482,7 +482,7 @@ The PDF can be downloaded and used for offline study.
 
 ---
 
-## 🎓 Applications
+##  Applications
 
 This project can be used for:
 
@@ -512,15 +512,6 @@ The project can be improved by adding:
 
 ---
 
-##  Conclusion
-
-The **AI-Powered PPT to Study Notes Generator using OCR** provides an automated way to convert PowerPoint presentations into structured study material.
-
-By combining **PowerPoint text extraction, OCR, image processing, text organization, mind map generation, and PDF creation**, the system helps students prepare clear and useful study notes with less manual effort.
-
-The project is especially useful for students who want to quickly convert lecture presentations into **revision-friendly study material**.
-
----
 
 ##  Author
 
